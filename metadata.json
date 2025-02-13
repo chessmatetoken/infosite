@@ -2,5 +2,9 @@
   "name": "Chessmate",
   "symbol": "CHESS",
   "description": "Revolutionizing chess education with AI-driven coaching.",
-  "image": "https://cryptochessmate.xyz/logo512.png"
+  "image": "https://cryptochessmate.xyz/logo512.png",
+  "extensions": {
+    "website": "https://cryptochessmate.xyz/",
+    "twitter": "https://x.com/cryptochessmate"
+  } 
 }
